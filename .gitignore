@@ -1,0 +1,8 @@
+node_modules/
+node_modules
+build/
+a.js
+package-lock.json
+config.json
+quickdb.json
+json.sqlite
